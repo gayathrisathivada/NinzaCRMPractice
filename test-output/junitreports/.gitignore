@@ -1,0 +1,16 @@
+/TEST-testNG.DataProvider.xml
+/TEST-testNG.Demo.xml
+/TEST-testNG.DependsOnMethod.xml
+/TEST-testNG.Enabled.xml
+/TEST-testNG.GeneralTestWithAllDemoSteps.xml
+/TEST-testNG.InvocationCount.xml
+/TEST-testNG.InvoiceTest.xml
+/TEST-testNG.PriorityExec.xml
+/TEST-testNG.SoftAssert_FB.xml
+/TEST-testNG.TakeScreenShot_FB.xml
+/TEST-testNG.ThreadPoolSize.xml
+/TEST-testNG_Campaign.CampaignTest.xml
+/TEST-testNG_Campaign.CampaignTest_AssertImplementation.xml
+/TEST-testNG_Campaign.CampaignTest_ListenerImplementation.xml
+/TEST-testNG_Product.ProductTest.xml
+/TEST-testNG_Product.ProductTest_ToReadDataFromXml.xml
